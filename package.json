@@ -11,6 +11,8 @@
   "author": "George Rodier",
   "license": "MIT",
   "devDependencies": {
+    "css-loader": "^2.0.1",
+    "style-loader": "^0.23.1",
     "webpack": "^4.27.1",
     "webpack-cli": "^3.1.2"
   },
